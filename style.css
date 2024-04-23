@@ -1,0 +1,106 @@
+body {
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    background-color: #FFF9F6;
+}
+
+.page {
+    width: 1000px;
+    margin: 65px auto 0;
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 55px;
+}
+
+ul {
+    display: flex;
+    gap: 48px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #1F1534;
+}
+
+ul li a:hover {
+    font-weight: bold;
+}
+
+h1, ul {
+    font-family: "Roboto", sans-serif;
+}
+
+main {
+    display: flex;
+    align-self: center;
+    justify-content: space-between;
+}
+
+h1 {
+    font-size: 49px;
+    line-height: 56px;
+    color: black;
+    font-weight: normal;
+    width: 490px
+}
+
+h1 span {
+    color: #C02B20;
+    font-weight: bold;
+}
+
+section p {
+    font: 14px;
+    line-height: 28px;
+    color: #000000;
+    margin: 40px 0;
+}
+
+p strong {
+    color: #75C5E4;
+}
+
+button {
+    color: #ffffff;
+    text-transform: uppercase;
+    font-family: "Open Sans", sans-serif;
+    background: #8ddf1a;
+    border: 0;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 26px 15px;
+    gap: 10px;
+    cursor: pointer;
+}
+
+button a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+button:hover {
+    background: #95cc48;
+}
+
+footer {
+    line-height: 14px;
+    line-height: 28px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+footer a {
+    color: #C02B20;
+    font-weight: bold;
+    text-decoration: none;
+}
