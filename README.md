@@ -19,7 +19,7 @@ Página criada exclusivamente para treinamento do projeto Explorer da Rocketseat
 <br>
 
 <p align="center">
-  <img alt="cestas personalizadas" src="images/cestas-personalizadas-2.jpg" width="100%">
+  <img alt="Capa com cestas personalizadas" src="images/cestas-personalizadas-2.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
